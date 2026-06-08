@@ -1,0 +1,116 @@
+[
+  {
+    "speaker": "zoey",
+    "text": "Wow your house is huge!! And it's so quiet! You could get, like, murdered here and no one would even hear!",
+    "context": "Ch 2 — Zoey's first words to Rumi in person",
+    "mood": "mortified"
+  },
+  {
+    "speaker": "rumi",
+    "text": "I don't think so — we have a really good security system and Celine and I would be able to disarm anyone too quickly for them to do any serious damage. And that's even having to protect the both of you too!",
+    "context": "Ch 2 — Rumi's sincere response to the murder comment",
+    "mood": "earnest"
+  },
+  {
+    "speaker": "rumi",
+    "text": "I found a survey!",
+    "context": "Ch 3 — on why she chose blue for Zoey's binder. She sounds extremely proud.",
+    "mood": "proud"
+  },
+  {
+    "speaker": "mira_internal",
+    "text": "She has not had anyone try to make something special just for her in... well, quite a long time.",
+    "context": "Ch 3 — Mira looking at the personalised cartoon graphics in the binders",
+    "mood": "aching"
+  },
+  {
+    "speaker": "mira_internal",
+    "text": "At least this way, no one is trying to catch her out.",
+    "context": "Ch 3 — Mira reading the binder, revising her threat assessment of Rumi",
+    "mood": "relief"
+  },
+  {
+    "speaker": "rumi",
+    "text": "I can't eat them — I'm allergic. They make my throat close up and my face swell up. Sometimes if I'm not even eating them. That's why Celine said no. But I thought it was worth asking because sometimes she changes her mind.",
+    "context": "Ch 8 — explaining the peanut butter campaign",
+    "mood": "earnest"
+  },
+  {
+    "speaker": "zoey_internal",
+    "text": "How Mira reacts to Rumi's ceaseless babbling will foretell how she will react to Zoey's ceaseless babbling.",
+    "context": "Ch 4 — Zoey watching Mira's face during Rumi's tour",
+    "mood": "anxious"
+  },
+  {
+    "speaker": "zoey_internal",
+    "text": "Mira isn't looking at Zoey, she's staring at Rumi with a sort of fascination — not shocked or horrified or mocking but almost hungrily, as if she envies Rumi her frankness.",
+    "context": "Ch 4 — Zoey's realisation that Mira is not as put-together as she seems",
+    "mood": "hopeful"
+  },
+  {
+    "speaker": "rumi_internal",
+    "text": "She needs to be better, smarter, quicker, stronger — and for the most part, she IS. But not by enough.",
+    "context": "Ch 5 — Rumi watching Mira get praised in sparring",
+    "mood": "raw"
+  },
+  {
+    "speaker": "zoey_internal",
+    "text": "It occurs to her sometimes that if more people were like Mira, her school years would have been far happier. In fact, if more people were like Mira, the world would be better. Far better.",
+    "context": "Ch 6 — on Mira defending Sol",
+    "mood": "soft"
+  },
+  {
+    "speaker": "mira",
+    "text": "It's ok. You don't have to hide.",
+    "context": "Ch 6 — what Mira means when she keeps bringing up Sol",
+    "mood": "warm"
+  },
+  {
+    "speaker": "zoey_mom",
+    "text": "I'm only saying this because I love you, jagiya. I know you.",
+    "context": "Ch 6 — during the phone call home. This is the worst part.",
+    "mood": "haunting"
+  },
+  {
+    "speaker": "mira",
+    "text": "By the way — phoning home sucks. So um — if you want, you can come do it in my room next time. For like moral support or whatever.",
+    "context": "Ch 6 — Mira, leaving the doorway before Zoey can respond",
+    "mood": "warm"
+  },
+  {
+    "speaker": "rumi_internal",
+    "text": "He's ripped. He's RIPPED. He's broken.",
+    "context": "Ch 7 — Byeol",
+    "mood": "devastating"
+  },
+  {
+    "speaker": "rumi_internal",
+    "text": "It's fine that Byeol is gone because Byeol isn't Byeol anymore, he's just some torn fur and sawdust... Her eyes sting when she sits down at the keyboard. It's fine.",
+    "context": "Ch 7 — Rumi in the studio",
+    "mood": "devastating"
+  },
+  {
+    "speaker": "rumi",
+    "text": "Why are you sorry? I think I'm going to need a towel.",
+    "context": "Ch 8 — after Mira accidentally kicks her in the face during training. Rumi is genuinely confused by the apology.",
+    "mood": "earnest"
+  },
+  {
+    "speaker": "rumi",
+    "text": "You didn't mean to. If you had, you would have done it better than that. For close range, you barely clipped me, really. You're capable of better now — you both are.",
+    "context": "Ch 8 — to Mira and Zoey's second round of apologies",
+    "mood": "earnest"
+  },
+  {
+    "speaker": "zoey",
+    "text": "I don't mind if Sheldon's different now, maybe it'll help Rumi see that I'm really properly sorry.",
+    "context": "Ch 9 — cutting open Sol's flipper for Byeol's stuffing",
+    "mood": "soft"
+  },
+  {
+    "speaker": "mira_internal",
+    "text": "She's going to make it so that Rumi knows that she's safe — that she can keep her door shut forever if she wants, that whatever treasures she's hung onto are hers and hers to keep without fear.",
+    "context": "Ch 9 — Mira, beginning to sew",
+    "mood": "fierce"
+  }
+]

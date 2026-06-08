@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All Kinds — Characters</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body data-page="characters">
+
+<header id="site-header">
+  <div class="container inner">
+    <a href="../index.html" class="brand"><span>✦</span> All Kinds</a>
+    <nav>
+      <a href="../index.html">Overview</a>
+      <a href="characters.html" class="active">Characters</a>
+      <a href="chapters.html">Chapters</a>
+      <a href="objects.html">Objects</a>
+      <a href="quotes.html">Quotes</a>
+    </nav>
+  </div>
+</header>
+
+<aside id="char-detail">
+  <button class="detail-close" id="detail-close">✕</button>
+  <div id="detail-content"></div>
+</aside>
+
+<main class="container page-wrap">
+  <div class="page-header">
+    <p class="eyebrow">4 characters · click to expand</p>
+    <h1>Characters</h1>
+    <p>Full profiles — possessions, key moments, connections. Click any card.</p>
+  </div>
+
+  <div class="filter-bar" id="char-filters">
+    <button class="active" data-filter="all">All</button>
+    <button data-filter="rumi">Rumi</button>
+    <button data-filter="mira">Mira</button>
+    <button data-filter="zoey">Zoey</button>
+    <button data-filter="celine">Celine</button>
+  </div>
+
+  <div class="char-grid" id="char-grid"></div>
+</main>
+
+<footer>
+  <div class="container inner">
+    <span>All Kinds · Characters</span>
+    <span><a href="../index.html" style="color:var(--ink-faint)">← Overview</a></span>
+  </div>
+</footer>
+
+<script src="../js/characters.js"></script>
+</body>
+</html>

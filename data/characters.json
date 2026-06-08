@@ -1,0 +1,93 @@
+[
+  {
+    "id": "rumi",
+    "name": "Rumi",
+    "color": "#c084fc",
+    "accent": "#f3e8ff",
+    "role": "The one who was already there",
+    "tags": ["Autistic", "Rumi Needs a Hug"],
+    "first_chapter": 1,
+    "description": "Has lived at the hanok with Celine her whole life. Waited outside from breakfast to greet Mira and Zoey — she wanted them to feel welcome from the very first second. Spent a whole morning researching snacks for the car (Honey Butter Chips, choco pies, Lotte Yoghurt Gummies) despite not being able to eat any of them herself. Made colour-coded, cross-referenced binders with personalised cartoon graphics. Knows every tree in the garden by comfort ranking. Keeps a notebook to remember conversation rules. Still has Byeol, her childhood bear — hidden in the closet, not thrown away yet.",
+    "personality": "Earnest to the point of absurdity. Takes everything literally and seriously. Desperately wants to be liked but has no idea how to be casual about it. Sets the standard in training and cannot understand why this doesn't make the others feel supported. Gets there eventually — just via a very unusual route.",
+    "possessions": [
+      { "name": "Byeol", "desc": "An antique sawdust-stuffed bear, her childhood companion. Hidden in the closet for years. Ripped when Zoey accidentally pulls him from the shelf in Ch 7. Rumi insists it is fine." },
+      { "name": "The Notebook", "desc": "A plain black ringbound kept in her pocket to record conversation rules. Celine compares it to Byeol and tells her to stop carrying it. Rumi does not entirely obey." },
+      { "name": "The Chipped Mug", "desc": "Looks identical to the other mugs in the set. Hers is chipped. She doesn't want anyone getting cut. She can't throw it out." }
+    ],
+    "key_moments": [
+      { "ch": 1, "desc": "Researches snack data obsessively. Waits outside from breakfast despite Celine asking three times." },
+      { "ch": 2, "desc": "Presents colour-coded binders. Tours the garden rating seven 'comfort trees' in order. The full 23-tree rating is available on request." },
+      { "ch": 3, "desc": "Found a survey to determine whether Zoey's or Mira's binder should be blue. Sounds extremely proud of this." },
+      { "ch": 5, "desc": "Asks Celine to write down the rules of conversation. Celine says no. Rumi starts keeping a notebook anyway." },
+      { "ch": 7, "desc": "Zoey finds Byeol. He rips. Rumi walks to the studio and bites her lip until she tastes blood. She insists it is fine." },
+      { "ch": 8, "desc": "Lobbied for peanut butter at every meal. She is severely allergic. She thought it was worth asking." }
+    ],
+    "relationships": ["mira", "zoey", "celine"]
+  },
+  {
+    "id": "mira",
+    "name": "Mira",
+    "color": "#f472b6",
+    "accent": "#fce7f3",
+    "role": "The one who bites first and thinks later",
+    "tags": ["Mira Needs a Hug"],
+    "first_chapter": 1,
+    "description": "Arrived with barely any belongings. Knows the model of the car because it's the same as Appa's. Spent the car ride fighting the instinct to sit up straight — she's been performing her best self for so long she doesn't know who her actual self is. Has pink hair. Her binder gets a panda in a bamboo grove. She desperately wants to know if there was a reason for it. Is becoming genuinely fluent in English through Celine's Harper's Bazaar curriculum and would not admit for anything that she almost enjoys it.",
+    "personality": "Angry as a first response to almost everything, including things that are fine. Deeply perceptive about other people while being entirely blind to how much of herself she gives away. Would deny caring about anything and then spend two hours repairing a stranger's childhood bear using stuffing from Zoey's turtle.",
+    "possessions": [
+      { "name": "Sewing kit", "desc": "She is, as she will eventually admit to herself, 'really fucking good at sewing'. The skill came from years of secretly altering clothes during her eating disorder — before the sewing materials were confiscated along with everything else she had." },
+      { "name": "The pink binder", "desc": "Given 'because of your hair'. Has a panda in a bamboo grove. Mira very much wants to know why." }
+    ],
+    "key_moments": [
+      { "ch": 1, "desc": "Sits in the back seat fighting every instinct. Doesn't touch the free car snacks in case they cost money." },
+      { "ch": 2, "desc": "Questions Rumi about the mug. It doesn't make sense. She needs it to make sense." },
+      { "ch": 3, "desc": "Reads the binder expecting rules. Finds information. Has to admit: no one is trying to catch her out." },
+      { "ch": 5, "desc": "Gets praised in sparring. Glows. Notices Rumi's expression. Feels bad about glowing." },
+      { "ch": 6, "desc": "Calls Sol 'cute' immediately. Keeps bringing up the turtle until Zoey stops trying to hide it." },
+      { "ch": 9, "desc": "Hears Zoey crying. Nods yes before the explanation is finished. Repairs Byeol with stuffing from Sol. Has one more thing to add before it's done." }
+    ],
+    "relationships": ["zoey", "rumi", "celine"]
+  },
+  {
+    "id": "zoey",
+    "name": "Zoey",
+    "color": "#60a5fa",
+    "accent": "#dbeafe",
+    "role": "The one who brought the turtle",
+    "tags": ["ADHD + Autistic", "Zoey Needs a Hug"],
+    "first_chapter": 1,
+    "description": "Raised in California. Korean mother, American father. Grew up with Korean customs but in an American context — nervous about bowing because this time it really matters. Didn't touch the car snacks for the same reason as Mira, arrived at through a completely different chain of anxiety. Has a stuffed turtle named Sol (also Archibald). From an aquarium in Burbank. Two years old. Survived a hot-wash and a partial dousing in soy sauce. Zoey's fixations include turtles, the history of rap as an art form, and the Sunlight Sisters discography — though she can't fangirl about that last one to Rumi's face.",
+    "personality": "Monitors herself constantly, aware she is a lot. Watches Mira's face whenever Rumi monologues: how Mira reacts to Rumi will predict how Mira reacts to Zoey. Panics silently. Blurts things out loud. Wanted to connect with Rumi by seeing her room. Found Byeol instead. Gives Mira Sol's stuffing without having to think about it.",
+    "possessions": [
+      { "name": "Sol (also: Archibald / Sheldon)", "desc": "A Kemp's Ridley turtle plushie from an aquarium in Burbank. Two years old. Survived a hot-wash and a soy sauce incident. Lives on Zoey's bed like throw pillows. Gets thrown at Mira during the shark documentary. In Ch 9, Zoey opens his flipper seam without hesitation to give Mira the stuffing for Byeol. 'I don't mind if Sheldon's different now.'" }
+    ],
+    "key_moments": [
+      { "ch": 1, "desc": "Too scared to eat the car snacks. Too scared to talk. First words to Rumi: your house is so quiet you could get murdered here." },
+      { "ch": 3, "desc": "Fills the silence with thirty seconds of thoughts on the colour green. Cuts herself off. Looks mortified." },
+      { "ch": 5, "desc": "Watches Mira watching Rumi. Mira is fascinated, not mocking. Thinks: oh, thank goodness." },
+      { "ch": 6, "desc": "Catches Mira watching during sparring — fierce and warm. Recognises it: she wants you to do well." },
+      { "ch": 7, "desc": "Goes into Rumi's room wanting to connect. Picks up Byeol. He rips. Rumi's face will haunt her." },
+      { "ch": 9, "desc": "Cuts open Sol's flipper with Mira's scissors. 'I don't mind if Sheldon's different now, maybe it'll help Rumi see that I'm really properly sorry.'" }
+    ],
+    "relationships": ["mira", "rumi"]
+  },
+  {
+    "id": "celine",
+    "name": "Celine",
+    "color": "#34d399",
+    "accent": "#d1fae5",
+    "role": "The one holding it all together",
+    "tags": ["Sunlight Sister"],
+    "first_chapter": 1,
+    "description": "A Sunlight Sister — Zoey's second favourite. Raises Rumi with high expectations and genuine love in equal measure, without always separating the two clearly. Told Rumi to wait inside. Said it three times. Knows Rumi will be outside anyway. Reads Harper's Bazaar with kimchi at breakfast. Uses fashion magazines as English instruction for Mira, which is actually working.",
+    "personality": "Calm in almost all situations. Tight schedule, high standards. Will not order peanut butter (Rumi is severely allergic). Gets a twitchy eye by the fourth peanut-health-benefit speech. Told Rumi she cannot boss the new girls around, without explaining why — and then could not understand why Rumi found this confusing.",
+    "possessions": [],
+    "key_moments": [
+      { "ch": 1, "desc": "Told Rumi three times to wait inside. Rumi waited outside." },
+      { "ch": 2, "desc": "Had Zoey's binder translated into English. Did not comment on the capybara in a bath of oranges." },
+      { "ch": 5, "desc": "Praises Mira in sparring. Tells Rumi she is not in charge of the others' training. Does not explain why." },
+      { "ch": 8, "desc": "Refuses peanut butter repeatedly. 'Aigoo! Rumi-ya, you know I'm not going to order it so please stop asking!'" }
+    ],
+    "relationships": ["rumi", "mira", "zoey"]
+  }
+]

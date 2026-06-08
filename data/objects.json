@@ -1,0 +1,56 @@
+[
+  {
+    "id": "byeol",
+    "name": "Byeol",
+    "owner": "rumi",
+    "color": "#c084fc",
+    "description": "An antique sawdust-stuffed bear. Rumi's childhood companion. 'Byeol' means 'star'. Hidden in Rumi's closet for over five years — not thrown away properly, not used. She only takes him out on really bad days and knows this is childish and knows Celine doesn't know and knows this is the way it has to be.",
+    "chapters_appear": [5, 7, 8, 9],
+    "significance": "The thing Rumi was never allowed to keep. The thing she kept anyway. The thing she insists is fine when it isn't. In Ch 9, Mira and Zoey repair him — smaller in one place, stuffed with something different. The best that anyone could do."
+  },
+  {
+    "id": "sol",
+    "name": "Sol (also: Archibald, Sheldon)",
+    "owner": "zoey",
+    "color": "#60a5fa",
+    "description": "A Kemp's Ridley sea turtle plushie from an aquarium in Burbank. Two years old. Survived a hot-wash and a partial dousing in soy sauce. Named Sol. Also called Archibald. After Ch 9, Sheldon. Lives on Zoey's bed like throw pillows. Gets thrown at Mira during the shark documentary. In Ch 9, Zoey opens his flipper seam without hesitation.",
+    "chapters_appear": [5, 6, 7, 8, 9],
+    "significance": "The thing Zoey didn't know she was supposed to leave behind. The thing Mira defended without being asked. In Ch 9, part of him becomes part of Byeol — and Zoey does not mind."
+  },
+  {
+    "id": "binders",
+    "name": "The Binders",
+    "owner": "rumi",
+    "color": "#f472b6",
+    "description": "Colour-coded. Cross-referenced. Translated into English for Zoey (which is why Zoey's is almost twice as thick). Personalised cartoon graphics: Mira gets a panda in a bamboo grove, Zoey gets a capybara in a bath of oranges. The house rules are in there but most of it is just information given for their comfort.",
+    "chapters_appear": [2, 3],
+    "significance": "Mira opens them expecting rules to follow, traps to fall into. What she finds instead: someone went to enormous trouble, specifically for her, so she would know what to expect. No one is trying to catch her out."
+  },
+  {
+    "id": "mug",
+    "name": "Rumi's Mug",
+    "owner": "rumi",
+    "color": "#c084fc",
+    "description": "Looks identical to all the others. Came as a set. Hers is chipped on the rim. She doesn't want either of them getting cut. She also cannot throw it out yet. She doesn't explain this. Mira pushes on the logic. Rumi just nods: they came as a set.",
+    "chapters_appear": [2, 4],
+    "significance": "Mira cannot understand why Rumi would give up her room but protect her mug. The answer is: the mug has a reason. The room is just a room. But neither of them knows yet that the mug is chipped."
+  },
+  {
+    "id": "sewing_kit",
+    "name": "Mira's Sewing Kit",
+    "owner": "mira",
+    "color": "#f472b6",
+    "description": "An open basket on the floor of Mira's room. In Ch 9, Zoey's eyes find it and then find Mira's. Neither of them are brave enough to damage Celine's property. Then Zoey picks up the scissors and opens Sol.",
+    "chapters_appear": [9],
+    "significance": "The skill that came from years of secretly altering clothes during her eating disorder — before the sewing materials were confiscated. Mira is, as she eventually admits to herself, 'really fucking good at sewing'. It becomes the thing that fixes Byeol."
+  },
+  {
+    "id": "notebook",
+    "name": "Rumi's Notebook",
+    "owner": "rumi",
+    "color": "#c084fc",
+    "description": "A plain black ringbound. Kept in her pocket. Records the rules of conversation: make conversation even when you have nothing to say, ask questions but not too many, remember what they said, don't repeat a question. She asked Celine to write this down. Celine said no. Rumi started the notebook anyway. Celine compares it to Byeol. Rumi understands the comparison. Hides the notebook rather than giving it up entirely.",
+    "chapters_appear": [5],
+    "significance": "Rumi trying to compensate for a brain that doesn't come with the social manual everyone else seems to have been issued. Hiding it is the compromise between what Celine expects and what Rumi actually needs."
+  }
+]
