@@ -25,6 +25,6 @@ function buildGrid(objects) {
 }
 
 function ownerName(id) {
-  const map = { rumi:'Rumi's', mira:'Mira's', zoey:'Zoey's', celine:'Celine's' };
+  const map = { rumi:'Rumi\'s', mira:'Mira\'s', zoey:'Zoey\'s', celine:'Celine\'s' };
   return map[id] || id;
 }
